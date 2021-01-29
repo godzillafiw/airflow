@@ -84,7 +84,7 @@ After initialization is complete, you should see a message like below.
 
     airflow-init_1       | Upgrades done
     airflow-init_1       | Admin user airflow created
-    airflow-init_1       | 2.1.0.dev0
+    airflow-init_1       | 2.0.1
     start_airflow-init_1 exited with code 0
 
 The account created has the login ``airflow`` and the password ``airflow``.
